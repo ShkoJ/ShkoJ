@@ -18,8 +18,8 @@ I'm a passionate software engineering student at the University of Kurdistan Hew
   Oil & Gas sector enthusiast, continuous learning, technology for positive change.
 
 - **Co-founder:**  
-  - [WAVE](#) – Marketing Agency  
-  - [Daroon](#) – NGO committed to community wellbeing
+  - WAVE – Marketing Agency  
+  - Daroon – NGO committed to community wellbeing
 
 ---
 
