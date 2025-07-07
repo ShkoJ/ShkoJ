@@ -7,7 +7,7 @@ I'm a Software Engineer & Data Scientist, Experienced in full-stack development,
 ## 🚀 About Me
 
 - **Current Roles:**  
-  Software Engineer | Data Scientist |
+  Software Engineer | Data Scientist
 - **Languages:**  
   Kurdish | English | Arabic  
 - **Top Skills & Technologies:**  
