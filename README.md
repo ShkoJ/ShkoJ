@@ -20,7 +20,7 @@ I'm a Software Engineer & Data Scientist, Experienced in full-stack development,
 
 ---
 
-## 🌟 Featured Project
+## 🌟 Featured Projects
 
 - **Personal Website:**  
   [shkoj.github.io/Shko-Jabbar](https://shkoj.github.io/Shko-Jabbar/)
