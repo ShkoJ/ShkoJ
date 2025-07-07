@@ -1,25 +1,22 @@
 # Hi, I'm Shko Jabbar Jawhar 👋
 
-Welcome to my GitHub profile!  
-I'm a passionate software engineering student at the University of Kurdistan Hewlêr (UKH), born in 2004, with a strong drive for innovation and impact—especially in the oil and gas sector.
+I'm a Software Engineer & Data Scientist, Experienced in full-stack development, data science, and machine learning. Skilled in Python, Pandas, TensorFlow, and web technologies.
 
 ---
 
 ## 🚀 About Me
 
 - **Current Roles:**  
-  Software Engineer | Data Scientist | Student | Co-founder  
+  Software Engineer | Data Scientist |
 - **Languages:**  
   Kurdish | English | Arabic  
 - **Top Skills & Technologies:**  
-  Python, Java, React, Machine Learning, Data Science & Analysis, C
+  Python, Java, React, Machine Learning, Data Science & Analysis, C, C++
 
-- **Interests:**  
-  Oil & Gas sector enthusiast, continuous learning, technology for positive change.
 
 - **Co-founder:**  
   - WAVE – Marketing Agency  
-  - Daroon – NGO committed to community wellbeing
+  - Daroon – NGO to raise awareness on Drug Abuse, committed to community well-being
 
 ---
 
@@ -39,9 +36,8 @@ I'm a passionate software engineering student at the University of Kurdistan Hew
 ## 🤖 Fun Facts
 
 - I love eating, going to the gym, ice skating, playing electric guitar, and sleeping.
-- Always up for a new challenge or learning opportunity!
+- Always up for a new challenge or learning opportunity
 
 ---
 
-Thank you for visiting my profile!  
 Feel free to connect or explore my work.
