@@ -1,4 +1,4 @@
-# Hi, I'm Shko Jabbar Jawhar 👋
+# Hi, I'm Shko Jabbar Jawhar
 
 I'm a Software Engineer & Data Scientist, Experienced in full-stack development, data science, and machine learning. Skilled in Python, Pandas, TensorFlow, and web technologies.
 
